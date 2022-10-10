@@ -1,0 +1,16 @@
+org\mindtickle\utils\ConfigManager.class
+org\mindtickle\constants\model\DeSerializationPojo\Category.class
+org\mindtickle\constants\model\DeSerializationPojo\CreateUserPojo.class
+org\mindtickle\constants\model\DeSerializationPojo\GetUserPojo.class
+org\mindtickle\constants\model\SerializationPojo\PetCategoryPOJO.class
+org\mindtickle\constants\model\DeSerializationPojo\Tag.class
+org\mindtickle\constants\model\SerializationPojo\UserPOJO.class
+org\mindtickle\constants\EndPoints.class
+org\mindtickle\constants\model\SerializationPojo\TagPojo.class
+org\mindtickle\utils\ParseNestedJSON.class
+org\mindtickle\helpers\PetServiceHelper.class
+org\mindtickle\constants\model\DeSerializationPojo\UpdateUserPojo.class
+org\mindtickle\constants\model\DeSerializationPojo\CreatePetPojo.class
+org\mindtickle\constants\model\DeSerializationPojo\UpdatePetPojo.class
+org\mindtickle\helpers\UserServiceHelper.class
+org\mindtickle\constants\model\SerializationPojo\PetModel.class
