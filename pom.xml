@@ -114,10 +114,7 @@
          </dependencies>
          <configuration>
             <includes>
-              <include>org/mindtickle/helpers/UserServiceHelperTest.java</include>
-              <include>org/mindtickle/helpers/PetServiceHelperTest.java</include>
-              <include>org/mindtickle/tests/apiTestPet.java</include>
-              <include>org/mindtickle/tests/apiTestUser.java</include>
+              <include></include>
              </includes>
            </configuration>
 
